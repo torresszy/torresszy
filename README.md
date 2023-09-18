@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I am Torres</a></h1>
 
-<!--
-**torresszy/torresszy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently pursuing a master degree in Computer Science
+  <br />at the University of Chicago</a>
+  
+- 🌱 &nbsp; I’m currently learning about Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 &nbsp; I’m looking for software engineering positions
+  
+- 📫 &nbsp; How to reach me: torresszy@gmail.com
+  
+- 😄 &nbsp; Pronouns: He/Him
+
+- 📄 &nbsp; Resume
+
