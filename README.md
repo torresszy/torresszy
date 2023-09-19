@@ -4,8 +4,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 &nbsp; I’m currently pursuing a master's degree in Computer Science
-  <br />at the University of Chicago</a>
+- 🔭 &nbsp; I’m currently pursuing a master's degree in Computer Science at the University of Chicago
   
 - 🌱 &nbsp; I’m currently learning about Generative AI
 
