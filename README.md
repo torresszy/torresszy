@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp; I’m currently pursuing a master's degree in Computer Science at the University of Chicago
   
-- 🌱 &nbsp; I’m currently learning about Generative AI
+- 🌱 &nbsp; I’m currently learning about Distributed System
 
 - 💬 &nbsp; I’m looking for software engineering positions
   
